@@ -4,6 +4,7 @@
 
 - 💻 I’m mostly working with .NET and Microsoft stack technologies + Angular
 - 📘 Currently learning Flutter for mobile development 📴
+- 3️⃣+ years of professional experience
 - 📚 Master's degree in Computer Science
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚽ I love sports - especially football
@@ -26,7 +27,6 @@
 
 [<img align="left" alt="mahrncic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
 <br />
 
 ---
