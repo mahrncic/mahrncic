@@ -31,9 +31,7 @@
 
 ---
 
-### Github Stats
-
-- 6 repositories
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahrncic)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/marko-hrncic
 [vscode]: https://code.visualstudio.com/
