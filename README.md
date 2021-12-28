@@ -1,11 +1,12 @@
 ### Hello, my name is Marko 👋
 
-## I'm a Developer and Software Enthusiast!!
+## I'm a Developer and Software Enthusiast!
 
-- 🌱 I’m currently learning everything 🤣
+- 💻 I’m mostly working with .NET and Microsoft stack technologies + Angular
+- 📘 Currently learning Flutter for mobile development 📴
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Additionally: I love sports - especially football
+- ⚽ Additionally: I love sports - especially football
 
 ### Connect with me:
 
