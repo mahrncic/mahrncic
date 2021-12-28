@@ -33,6 +33,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahrncic)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrncic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 [linkedin]: https://www.linkedin.com/in/marko-hrncic
 [vscode]: https://code.visualstudio.com/
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
