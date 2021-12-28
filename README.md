@@ -21,7 +21,7 @@
 [<img align="left" alt="SQL Server" width="26px" src="https://cdn-icons-png.flaticon.com/512/3161/3161115.png" />][sqlserver]
 [<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />][angular]
 [<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][html]
-[<img align="left" alt="CSS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />][css]
+[<img align="left" alt="CSS" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />][css]
 [<img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
