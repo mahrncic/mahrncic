@@ -8,12 +8,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚽ I love sports - especially football
 
-### Connect with me:
-
-[<img align="left" alt="mahrncic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
-
 ### Skills and Tools:
 
 [<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
@@ -25,6 +19,12 @@
 [<img align="left" alt="CSS" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png" />][css]
 [<img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+
+<br />
+
+### Connect with me:
+
+[<img align="left" alt="mahrncic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 <br />
