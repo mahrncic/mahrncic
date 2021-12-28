@@ -4,9 +4,9 @@
 
 - 💻 I’m mostly working with .NET and Microsoft stack technologies + Angular
 - 📘 Currently learning Flutter for mobile development 📴
-- 👯 I’m looking to collaborate with other content creators
+- 📚 Master's degree in Computer Science
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚽ Additionally: I love sports - especially football
+- ⚽ I love sports - especially football
 
 ### Connect with me:
 
@@ -16,7 +16,7 @@
 
 ### Skills and Tools:
 
-[<img align="left" alt="C#" width="26px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue.png" />][c#]
+[<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
 [<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][.net]
 [<img align="left" alt="SQL Server" width="26px" src="https://toppng.com/uploads/preview/sql-server-logo-11536003918cqijfkbvn4.png" />][sqlserver]
 [<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />][angular]
