@@ -17,7 +17,7 @@
 ### Skills and Tools:
 
 [<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
-[<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png" />][.net]
+[<img align="left" alt=".NET" width="26px" src="https://estradaci.com/wp-content/uploads/2019/04/asp-net-core-logo.png" />][.net]
 [<img align="left" alt="SQL Server" width="26px" src="https://toppng.com/uploads/preview/sql-server-logo-11536003918cqijfkbvn4.png" />][sqlserver]
 [<img align="left" alt="Angular" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />][angular]
 [<img align="left" alt="HTML" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" />][html]
