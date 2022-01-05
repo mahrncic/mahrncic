@@ -7,7 +7,7 @@
 - 3️⃣+ years of professional experience
 - 📚 Master's degree in Computer Science
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚽ I love sports - especially football
+- ⚽ Loving sports - especially football
 
 ### Skills and Tools:
 
