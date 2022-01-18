@@ -5,7 +5,7 @@
 - 💻 I’m mostly working with .NET and Microsoft stack technologies + Angular
 - 📘 Currently learning Flutter for mobile development 📴
 - 3️⃣+ years of professional experience in Software Development
-- 📚 Master's degree in Computer Science
+- 📚 Master's Degree in Computer Science
 - 🥅 2022 Goals -> Contribute more to Open Source projects
 - ⚽ Loving sports - especially football
 
