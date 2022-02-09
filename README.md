@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Software Enthusiast!
 
-- 💻 I’m mostly working with .NET and Microsoft stack technologies + Angular
+- 💻 I’m working with .NET and Microsoft stack technologies + Angular
 - 📘 Currently learning Flutter for mobile development 📴
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
