@@ -9,7 +9,7 @@
 - 🥅 2022 Goals -> Contribute more to Open Source projects
 - ⚽ Loving sports - Especially football
 
-### Skills and Tools:
+### Skills / Tools:
 
 [<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
 [<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" />][.net]
