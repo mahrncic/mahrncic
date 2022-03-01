@@ -6,7 +6,7 @@
 - 📘 Currently learning Flutter for mobile development 📴
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
-- 🥅 2022 Goals -> Contribute more to Open Source projects
+- 🥅 2022 Goals -> Contribute more to Open Source community
 - ⚽ Loving sports - Especially football
 
 ### Skills / Tools:
