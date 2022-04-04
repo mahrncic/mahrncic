@@ -5,7 +5,7 @@
 - 💻 I’m working with .NET and Microsoft stack technologies + Angular
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
-- 🥅 2022 Goals -> Contribute more to Open Source community
+- 🥅 2022 Goals -> Contribute more to Open Source community, learn about Microservices and Clean Architecture
 - ⚽ Loving sports - Especially football
 
 ### Skills / Tools:
