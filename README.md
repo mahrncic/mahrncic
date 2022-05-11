@@ -5,7 +5,7 @@
 - 💻 I’m working with .NET and Microsoft stack technologies + Angular
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
-- 📖 Currently learning about Microservices and Clean Architecture(DDD) in .NET
+- 📖 Currently learning about Microservices and Clean Architecture with DDD in .NET
 - 🥅 2022 Goals -> Contribute more to Open Source community
 - ⚽ Loving sports - Especially football
 
