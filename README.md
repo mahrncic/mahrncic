@@ -3,6 +3,7 @@
 ## I'm a Developer and Software Enthusiast!
 
 - 💻 I’m working with .NET and Microsoft stack technologies + Angular
+- ✏️ Writing about .NET Technologies
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
 - 📖 Currently focusing on Microservices and Clean Architecture with DDD in .NET
