@@ -2,7 +2,7 @@
 
 ## I'm a Developer and Software Enthusiast!
 
-- 💻 I’m working with .NET and Microsoft stack technologies
+- 💻 I’m working with .NET and Microsoft technologies
 - ✏️ Writing about .NET Technologies with a broad exposure to around 500k readers monthly
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
