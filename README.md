@@ -4,6 +4,7 @@
 
 - 💻 I’m working with .NET and Microsoft technologies
 - ✏️ Writing about .NET with a broad exposure to around 500k readers monthly
+- ✅ Editing .NET Articles from technical authors
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
 - 📖 Currently focusing on Microservices and Clean Architecture with DDD in .NET
@@ -13,7 +14,7 @@
 ### Skills / Tools:
 
 [<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
-[<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/2048px-.NET_Logo.svg.png" />][.net]
+[<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />][.net]
 [<img align="left" alt="SQL Server" width="26px" src="https://cdn-icons-png.flaticon.com/512/3161/3161115.png" />][sqlserver]
 [<img align="left" alt="Angular" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" />][angular]
 [<img align="left" alt="Flutter" width="22px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" />][flutter]
