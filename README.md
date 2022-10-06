@@ -7,7 +7,7 @@
 - ✅ Editing .NET Articles from technical authors
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
-- 📖 Currently focusing on Microservices and Clean Architecture with DDD in .NET
+- 📖 Currently focusing on Clean Architecture with DDD in .NET
 - 🥅 2022 Goals -> Contribute more to Open Source community
 - ⚽ Loving sports - Especially football
 
