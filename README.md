@@ -2,13 +2,12 @@
 
 ## I'm a Developer and Software Enthusiast!
 
-- 💻 I’m working with .NET and Microsoft technologies
+- 💻 Working with .NET and Microsoft technologies
 - ✏️ Writing about .NET with a broad exposure to around 500k readers monthly
 - ✅ Editing .NET Articles from technical authors
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
 - 📖 Currently focusing on Clean Architecture with DDD in .NET
-- 🥅 2022 Goals -> Contribute more to Open Source community
 - ⚽ Loving sports - Especially football
 
 ### Skills / Tools:
