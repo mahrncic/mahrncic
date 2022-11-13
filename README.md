@@ -3,7 +3,7 @@
 ## I'm a Developer and Software Enthusiast!
 
 - 💻 Working with .NET and Microsoft technologies
-- ✏️ Writing about .NET with a broad exposure to around 500k readers monthly
+- ✏️ Writing .NET articles with exposure to around 500k readers monthly
 - ✅ Editing .NET Articles written by technical authors
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
