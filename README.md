@@ -1,6 +1,6 @@
-### Hello, my name is Marko 👋
+### Hello, I'm Marko! 👋
 
-## I'm a Developer and Software Enthusiast!
+## Developer and Software Enthusiast
 
 - 💻 Working with .NET and Microsoft technologies
 - ✏️ Writing .NET articles with exposure to around 700k readers monthly
