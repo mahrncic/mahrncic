@@ -7,7 +7,7 @@
 - ✅ Editing .NET articles written by technical authors
 - 3️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
-- 📖 Currently focusing on Clean Architecture with DDD in .NET
+- 📖 Focusing on Clean Architecture with DDD in .NET
 - ⚽ Loving sports, especially football
 
 ### Skills / Tools:
