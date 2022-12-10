@@ -12,24 +12,28 @@
 
 ### Skills / Tools:
 
-[<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
-[<img align="left" alt=".NET" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />][.net]
-[<img align="left" alt="SQL Server" width="26px" src="https://cdn-icons-png.flaticon.com/512/3161/3161115.png" />][sqlserver]
-[<img align="left" alt="Azure" width="30px" src="https://logosdownload.com/logo/microsoft-azure-logo-big.png" />][azure]
-[<img align="left" alt="GIT" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img align="left" alt="C#" width="34px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
+[<img align="left" alt=".NET" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />][.net]
+[<img align="left" alt="SQL Server" width="34px" src="https://cdn-icons-png.flaticon.com/512/3161/3161115.png" />][sqlserver]
+[<img align="left" alt="Azure" width="36px" src="https://logosdownload.com/logo/microsoft-azure-logo-big.png" />][azure]
+[<img align="left" alt="GIT" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
+[<img align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="mahrncic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mahrncic | LinkedIn" width="34px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
 <br />
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahrncic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/mahrncic">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahrncic&show_icons=true&theme=dark&count_private=true" alt="mahrncic's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahrncic&theme=dark&layout=compact" 
+    alt="mahrncic GitHub Top Languages" />
+</a>
 
 [linkedin]: https://www.linkedin.com/in/marko-hrncic
 [vscode]: https://code.visualstudio.com/
