@@ -12,27 +12,27 @@
 
 ### Skills / Tools:
 
-[<img align="left" alt="C#" width="34px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
-[<img align="left" alt=".NET" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />][.net]
-[<img align="left" alt="SQL Server" width="34px" src="https://cdn-icons-png.flaticon.com/512/3161/3161115.png" />][sqlserver]
-[<img align="left" alt="Azure" width="36px" src="https://logosdownload.com/logo/microsoft-azure-logo-big.png" />][azure]
-[<img align="left" alt="GIT" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
-[<img align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img target="_blank" align="left" alt="C#" width="34px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
+[<img target="_blank" align="left" alt=".NET" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />][.net]
+[<img target="_blank" align="left" alt="SQL Server" width="34px" src="https://cdn-icons-png.flaticon.com/512/3161/3161115.png" />][sqlserver]
+[<img target="_blank" align="left" alt="Azure" width="36px" src="https://logosdownload.com/logo/microsoft-azure-logo-big.png" />][azure]
+[<img target="_blank" align="left" alt="GIT" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
+[<img target="_blank" align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 <br />
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="mahrncic | LinkedIn" width="34px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
-[<img align="left" alt="mahrncic | Stack Overflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
+[<img target="_blank" align="left" alt="mahrncic | LinkedIn" width="34px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img target="_blank" align="left" alt="mahrncic | Stack Overflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
 
 <br />
 <br />
 
 ### .NET Articles:
 
-[<img align="left" alt="mahrncic | Code Maze" width="115px" src="https://code-maze.com/wp-content/uploads/2021/02/Code-Maze-Logo-White-Text-Transparent-Small.png" />][codemaze]
+[<img target="_blank" align="left" alt="mahrncic | Code Maze" width="115px" src="https://code-maze.com/wp-content/uploads/2021/02/Code-Maze-Logo-White-Text-Transparent-Small.png" />][codemaze]
 
 <br />
 <br />
