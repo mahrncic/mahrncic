@@ -20,17 +20,21 @@
 [<img align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
 <br />
+<br />
 
 ### Connect with me:
 
 [<img align="left" alt="mahrncic | LinkedIn" width="34px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+[<img align="left" alt="mahrncic | Stack Overflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
 
+<br />
 <br />
 
 ### .NET Articles:
 
 [<img align="left" alt="mahrncic | Code Maze" width="115px" src="https://code-maze.com/wp-content/uploads/2021/02/Code-Maze-Logo-White-Text-Transparent-Small.png" />][codemaze]
 
+<br />
 <br />
 
 ---
@@ -53,3 +57,4 @@
 [flutter]: https://flutter.dev/?gclid=CjwKCAiAiKuOBhBQEiwAId_sK1sIc9nsJqe1B7wCdpjX5TayKQIdPGhhHcvFAlwvo18a3nR5JLobJRoCgHUQAvD_BwE&gclsrc=aw.ds
 [azure]: https://azure.microsoft.com/en-us/
 [codemaze]: https://code-maze.com/author/mahrncic/
+[stackoverflow]: https://stackoverflow.com/users/19363957/marko-hrn%c4%8di%c4%87
