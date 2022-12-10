@@ -26,6 +26,7 @@
 
 [<img target="_blank" align="left" alt="mahrncic | LinkedIn" width="34px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img target="_blank" align="left" alt="mahrncic | Stack Overflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
+[<img target="_blank" align="left" alt="mahrncic | Gmail" width="34px" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" />][gmail]
 
 <br />
 <br />
@@ -58,3 +59,4 @@
 [azure]: https://azure.microsoft.com/en-us/
 [codemaze]: https://code-maze.com/author/mahrncic/
 [stackoverflow]: https://stackoverflow.com/users/19363957/marko-hrn%c4%8di%c4%87
+[gmail]: mailto:mahrncic@gmail.com
