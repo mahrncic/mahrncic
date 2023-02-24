@@ -3,8 +3,7 @@
 ## Developer and Software Enthusiast
 
 - 💻 Working with .NET and Microsoft technologies
-- ✏️ Writing .NET articles with exposure to around 700k readers monthly
-- ✅ Editing .NET articles written by technical authors
+- ✅ Editing .NET articles written by technical authors with exposure to around 700k readers monthly
 - 4️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
 - ⚽ Loving sports - especially football
