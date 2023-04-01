@@ -3,9 +3,9 @@
 ## Developer and Software Enthusiast
 
 - 💻 Working with .NET and Microsoft technologies
+- 4️⃣+ years of professional experience in Software Development
 - 📊 Leading a team of six .NET engineers    
 - ✅ Editing .NET articles with exposure to around 700k readers monthly
-- 4️⃣+ years of professional experience in Software Development
 - 📚 Master's Degree in Computer Science
 - ⚽ Loving sports - especially football
 
