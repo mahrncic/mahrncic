@@ -15,6 +15,7 @@
 [<img target="_blank" align="left" alt=".NET" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />][.net]
 [<img target="_blank" align="left" alt="SQL Server" width="34px" src="https://cdn-icons-png.flaticon.com/512/3161/3161115.png" />][sqlserver]
 [<img target="_blank" align="left" alt="Azure" width="36px" src="https://logosdownload.com/logo/microsoft-azure-logo-big.png" />][azure]
+[<img target="_blank" align="left" alt="AWS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />][aws]
 [<img target="_blank" align="left" alt="GIT" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
 [<img target="_blank" align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
 
@@ -56,6 +57,7 @@
 [css]: https://www.w3schools.com/css/
 [flutter]: https://flutter.dev/?gclid=CjwKCAiAiKuOBhBQEiwAId_sK1sIc9nsJqe1B7wCdpjX5TayKQIdPGhhHcvFAlwvo18a3nR5JLobJRoCgHUQAvD_BwE&gclsrc=aw.ds
 [azure]: https://azure.microsoft.com/en-us/
+[aws]: https://aws.amazon.com/
 [codemaze]: https://code-maze.com/author/mahrncic/
 [stackoverflow]: https://stackoverflow.com/users/19363957/marko-hrn%c4%8di%c4%87
 [gmail]: mailto:mahrncic@gmail.com
