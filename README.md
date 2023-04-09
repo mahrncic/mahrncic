@@ -1,6 +1,6 @@
 ### Hello, I'm Marko! 👋
 
-## Developer and Software Enthusiast
+## Software Engineer and Enthusiast
 
 - 💻 Working with .NET and Microsoft technologies
 - 4️⃣+ years of professional experience in Software Development
