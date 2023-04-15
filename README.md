@@ -1,9 +1,9 @@
 ### Hello, I'm Marko! 👋
 
-## Software Engineer and Enthusiast
+## Software engineer and enthusiast
 
 - 💻 Working with .NET and Microsoft technologies
-- 4️⃣+ years of professional experience in Software Development
+- 4️⃣+ years of professional experience in software Ddvelopment
 - 📊 Leading a .NET engineering team    
 - ✅ Editing .NET articles with exposure to ~700k readers monthly
 - 📚 Master's Degree in Computer Science
