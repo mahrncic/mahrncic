@@ -7,7 +7,7 @@
 - 📊 Leading a .NET engineering team    
 - ✅ Editing .NET articles with exposure to ~700k readers monthly
 - 📚 Master's Degree in Computer Science
-- ⚽ Loving sports - especially football
+- ⚽ Loving sports, especially football
 
 ### Skills / Tools:
 
