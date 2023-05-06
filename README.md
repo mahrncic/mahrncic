@@ -17,7 +17,7 @@
 [<img target="_blank" align="left" alt="Azure" width="36px" src="https://logosdownload.com/logo/microsoft-azure-logo-big.png" />][azure]
 [<img target="_blank" align="left" alt="AWS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />][aws]
 [<img target="_blank" align="left" alt="GIT" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
-[<img target="_blank" align="left" alt="Visual Studio Code" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+[<img target="_blank" align="left" alt="Visual Studio Code" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" />][rider]
 
 <br />
 <br />
@@ -48,7 +48,7 @@
 </a>
 
 [linkedin]: https://www.linkedin.com/in/marko-hrncic
-[vscode]: https://code.visualstudio.com/
+[rider]: https://www.jetbrains.com/rider/
 [c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
 [.net]: https://dotnet.microsoft.com/en-us/
 [postgres]: https://www.postgresql.org
