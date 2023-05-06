@@ -13,7 +13,7 @@
 
 [<img target="_blank" align="left" alt="C#" width="34px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
 [<img target="_blank" align="left" alt=".NET" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />][.net]
-[<img target="_blank" align="left" alt="Postgres" width="34px" src="https://cdn-icons-png.flaticon.com/512/3161/3161115.png" />][postgres]
+[<img target="_blank" align="left" alt="Postgres" width="34px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" />][postgres]
 [<img target="_blank" align="left" alt="Azure" width="36px" src="https://logosdownload.com/logo/microsoft-azure-logo-big.png" />][azure]
 [<img target="_blank" align="left" alt="AWS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />][aws]
 [<img target="_blank" align="left" alt="GIT" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
