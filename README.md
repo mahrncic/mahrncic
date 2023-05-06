@@ -11,16 +11,7 @@
 
 ### Skills / Tools:
 
-[<img target="_blank" align="left" alt="C#" width="34px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />][c#]
-[<img target="_blank" align="left" alt=".NET" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" />][.net]
-[<img target="_blank" align="left" alt="Postgres" width="34px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postgresql-icon.png" />][postgres]
-[<img target="_blank" align="left" alt="Azure" width="36px" src="https://logosdownload.com/logo/microsoft-azure-logo-big.png" />][azure]
-[<img target="_blank" align="left" alt="AWS" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1280px-Amazon_Web_Services_Logo.svg.png" />][aws]
-[<img target="_blank" align="left" alt="GIT" width="34px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />][git]
-[<img target="_blank" align="left" alt="Visual Studio Code" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/JetBrains_Rider_Icon.svg/512px-JetBrains_Rider_Icon.svg.png" />][rider]
-
-<br />
-<br />
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,azure,aws,git)](https://skillicons.dev)
 
 ### Connect with me:
 
@@ -48,13 +39,6 @@
 </a>
 
 [linkedin]: https://www.linkedin.com/in/marko-hrncic
-[rider]: https://www.jetbrains.com/rider/
-[c#]: https://docs.microsoft.com/en-us/dotnet/csharp/
-[.net]: https://dotnet.microsoft.com/en-us/
-[postgres]: https://www.postgresql.org
-[git]: https://git-scm.com/
-[azure]: https://azure.microsoft.com/en-us/
-[aws]: https://aws.amazon.com/
 [codemaze]: https://code-maze.com/author/mahrncic/
 [stackoverflow]: https://stackoverflow.com/users/19363957/marko-hrn%c4%8di%c4%87
 [gmail]: mailto:mahrncic@gmail.com
