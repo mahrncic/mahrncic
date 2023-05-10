@@ -9,11 +9,11 @@
 - 📚 Master's Degree in Computer Science
 - ⚽ Loving sports, especially football
 
-### Skills / Tools:
+### Skills / Tools
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,azure,aws,git)](https://skillicons.dev)
 
-### Connect with me:
+### Connect with me
 
 [<img target="_blank" align="left" alt="mahrncic | LinkedIn" width="34px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 [<img target="_blank" align="left" alt="mahrncic | Stack Overflow" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" />][stackoverflow]
@@ -22,7 +22,7 @@
 <br />
 <br />
 
-### .NET Articles:
+### .NET Articles
 
 [<img target="_blank" align="left" alt="mahrncic | Code Maze" width="115px" src="https://code-maze.com/wp-content/uploads/2021/02/Code-Maze-Logo-White-Text-Transparent-Small.png" />][codemaze]
 
