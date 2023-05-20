@@ -1,4 +1,4 @@
-### Hi, I'm Marko! 👋
+### Hi, Marko here! 👋
 
 ## Software enthusiast and engineer
 
