@@ -5,7 +5,7 @@
 - 💻 Working with .NET and Microsoft technologies
 - 4️⃣+ years of professional experience in software development
 - 📊 Leading a .NET engineering team    
-- ✅ Editing technical articles with exposure to ~700k readers monthly
+- ✅ Editing technical articles with exposure to ~700k readers
 - 📚 Master's Degree in Computer Science
 - ⚽ Loving sports, especially football
 
