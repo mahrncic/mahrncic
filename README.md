@@ -32,7 +32,7 @@
 ---
 
 <a href="https://github.com/mahrncic">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=mahrncic&show_icons=true&theme=dark&count_private=true" alt="mahrncic's GitHub Stats" />
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahrncic&theme=dark&layout=compact" alt="mahrncic GitHub Top Languages" />
   <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahrncic&theme=dark" alt="mahrncic" />
 </a>
 
