@@ -3,7 +3,7 @@
 ## Software enthusiast and engineer
 
 - 💻 Working with .NET and Microsoft technologies
-- 4️⃣+ years of professional experience in software development
+- 5️⃣+ years of professional experience in software development
 - 📊 Leading a .NET engineering team    
 - ✅ Editing technical articles read by ~1 million developers monthly
 - 📚 Master's Degree in Computer Science
