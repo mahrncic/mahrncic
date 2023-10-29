@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-## Software enthusiast and engineer
+## Software enthusiast and team lead
 
 - 💻 Working with .NET and Microsoft technologies
 - 5️⃣+ years of professional experience in software development
