@@ -1,5 +1,3 @@
-## Hi there! 👋
-
 ## Software enthusiast and team lead
 
 - 💻 Working with .NET and Microsoft technologies
