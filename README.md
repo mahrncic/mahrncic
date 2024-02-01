@@ -3,7 +3,6 @@
 - 💻 Working with .NET and Microsoft technologies
 - 5️⃣+ years of professional experience in software development
 - 📊 Leading a .NET engineering team    
-- ✅ Editing technical articles read by ~1 million developers monthly
 - 📚 Master's Degree in Computer Science
 - ⚽ Loving sports, especially football
 
@@ -20,13 +19,6 @@
 <br />
 <br />
 
-### .NET Articles
-
-[<img target="_blank" align="left" alt="mahrncic | Code Maze" width="115px" src="https://code-maze.com/wp-content/uploads/2021/02/Code-Maze-Logo-White-Text-Transparent-Small.png" />][codemaze]
-
-<br />
-<br />
-
 ---
 
 <a href="https://github.com/mahrncic">
@@ -35,6 +27,5 @@
 </a>
 
 [linkedin]: https://www.linkedin.com/in/marko-hrncic
-[codemaze]: https://code-maze.com/author/mahrncic/
 [stackoverflow]: https://stackoverflow.com/users/19363957/marko-hrn%c4%8di%c4%87
 [gmail]: mailto:mahrncic@gmail.com
