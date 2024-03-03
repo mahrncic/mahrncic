@@ -2,7 +2,7 @@
 
 - 💻 Working with .NET and Microsoft technologies
 - 5️⃣+ years of professional experience in software development
-- 📊 Leading a .NET engineering team    
+- 📊 Leading a backend engineering team    
 - 📚 Master's Degree in Computer Science
 - ⚽ Loving sports, especially football
 
