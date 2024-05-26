@@ -8,7 +8,7 @@
 
 ### Skills / Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,azure,aws,git,docker,rider)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,rider,azure,aws,git,docker)](https://skillicons.dev)
 
 ### Connect with me
 
