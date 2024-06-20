@@ -1,4 +1,4 @@
-## Software enthusiast and team lead
+## Senior software engineer and enthusiast
 
 - 💻 Working with .NET and Microsoft technologies
 - 5️⃣+ years of professional experience in software development
