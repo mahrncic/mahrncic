@@ -26,5 +26,4 @@
 </a>
 
 [linkedin]: https://www.linkedin.com/in/marko-hrncic
-[stackoverflow]: https://stackoverflow.com/users/19363957/marko-hrn%c4%8di%c4%87
 [gmail]: mailto:mahrncic@gmail.com
