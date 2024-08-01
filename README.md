@@ -9,6 +9,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,rider,azure,aws,git,docker)](https://skillicons.dev)
 
+### Certifications
+
+- <img target="_blank" align="center" alt="mahrncic | Microsoft" width="20px" src="https://cdn.pixabay.com/photo/2013/02/12/09/07/microsoft-80660_960_720.png" /> [**AZ-204: Azure Developer Associate**](https://learn.microsoft.com/en-us/users/markohrni-9688/credentials/6b995514e4d1970e)
+
 ### Connect with me
 
 [<img target="_blank" align="left" alt="mahrncic | LinkedIn" width="34px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
