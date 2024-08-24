@@ -3,7 +3,7 @@
 - 5️⃣+ years of professional experience in software development
 - ☁️ Proficient with backend, web, and cloud technologies
 - 📊 Leading a backend engineering team    
-- 📚 Master's Degree in Computer Science
+- 📚 Master's degree in Computer Science
 - ⚽ Loving sports, especially football
 
 ### Skills / Tools
