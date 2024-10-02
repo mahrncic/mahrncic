@@ -13,6 +13,7 @@
 ### Certifications
 
 - <img target="_blank" align="center" alt="mahrncic | Microsoft" width="20px" src="https://cdn.pixabay.com/photo/2013/02/12/09/07/microsoft-80660_960_720.png" /> [**AZ-204: Azure Developer Associate**](https://learn.microsoft.com/en-us/users/markohrni-9688/credentials/6b995514e4d1970e)
+- <img target="_blank" align="center" alt="mahrncic | Microsoft" width="20px" src="https://cdn.pixabay.com/photo/2013/02/12/09/07/microsoft-80660_960_720.png" /> [**AZ-104: Azure Administrator Associate**](https://learn.microsoft.com/api/credentials/share/en-us/MarkoHrni-9688/EEE96BA097CFCD0F?sharingId=9BACBDBCCAFADC9A)
 
 ### Connect with me
 
