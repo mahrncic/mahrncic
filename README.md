@@ -4,7 +4,7 @@
 - ☁️ Proficient with backend, web, and cloud technologies
 - 📊 Leading a backend engineering team    
 - 📚 Master's degree in Computer Science
-- ⚽ Loving sports, especially football
+- ⚽ Love sports, especially football
 
 ### Skills / Tools
 
