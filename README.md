@@ -1,4 +1,4 @@
-## Senior backend engineer and team lead
+## Software enthusiast and senior backend engineer
 
 - 5️⃣+ years of professional experience in software development
 - ☁️ Proficient with backend, web, and cloud technologies
