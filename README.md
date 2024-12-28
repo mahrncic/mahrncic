@@ -1,6 +1,6 @@
 ## Software enthusiast and senior backend engineer
 
-- 5️⃣+ years of professional experience in software development
+- 6️⃣+ years of professional experience in software development
 - ☁️ Proficient with backend, web, and cloud technologies
 - 📊 Leading a backend engineering team    
 - 📚 Master's degree in Computer Science
