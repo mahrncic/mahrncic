@@ -25,10 +25,5 @@
 
 ---
 
-<a href="https://github.com/mahrncic">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahrncic&theme=dark&layout=compact" alt="mahrncic GitHub Top Languages" />
-  <img width="49%" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahrncic&theme=dark" alt="mahrncic" />
-</a>
-
 [linkedin]: https://www.linkedin.com/in/marko-hrncic
 [gmail]: mailto:mahrncic@gmail.com
